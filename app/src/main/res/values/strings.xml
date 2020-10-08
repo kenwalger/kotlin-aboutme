@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ken W. Alger</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">My bio would go here.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done_button">Done</string>
+</resources>
